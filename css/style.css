@@ -366,7 +366,13 @@ hr {
 .boxed-grey {
 	background: #f9f9f9;
 	padding: 20px;
-  height: 500px;
+  height: 700px;
+}
+
+.boxed-greysm {
+	background: #f9f9f9;
+	padding: 10px;
+  height: 50px;
 }
 
 .team h5 {
@@ -861,7 +867,16 @@ Parallax
   align-self: center;
   max-width: 600px;
   min-wdith: 400px;
-  color: black;
+}
+
+.aboutme-paragraph p {
+  color: #555;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.project-link {
+  padding: 100px 0 0 0;
 }
 
 .resume-container {
@@ -888,8 +903,8 @@ Parallax
 }
 
 embed{
-  width: 500px;
-  height: 700px;
+  width: 800px;
+  height: 1100px;
 }
 
 .contact-info {
