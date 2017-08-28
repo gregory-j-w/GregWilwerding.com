@@ -911,3 +911,7 @@ embed{
   font-size: 20px;
   font-weight: 400;
 }
+
+.project-link {
+  padding: 10px 0 20px 0;
+}
